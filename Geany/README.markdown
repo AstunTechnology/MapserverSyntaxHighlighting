@@ -1,0 +1,8 @@
+# Mapserver syntax highlighting for Geany
+
+Place in a [Geany filetype path](http://www.geany.org/manual/dev/index.html#configuration-file-paths)
+
+In filetype_extensions.conf, under `[Extensions]`, add:
+	Mapfile=*.map;
+
+
