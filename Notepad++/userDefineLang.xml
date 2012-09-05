@@ -1,0 +1,36 @@
+<NotepadPlus>
+    <UserLang name="Mapserver" ext="map">
+        <Settings>
+            <Global caseIgnored="no" />
+            <TreatAsSymbol comment="no" commentLine="yes" />
+            <Prefix words1="no" words2="no" words3="no" words4="no" />
+        </Settings>
+        <KeywordLists>
+            <Keywords name="Delimiters">&quot;&apos;0&quot;&apos;0</Keywords>
+            <Keywords name="Folder+">CLASS FEATURE GRID JOIN LABEL LAYER LEGEND METADATA LINESET MAP MARKERSET POINTS SHADESET STYLE PROJECTION QUERY OUTPUTFORMAT QUERYMAP REFERENCE SCALEBAR SYMBOL WEB </Keywords>
+            <Keywords name="Folder-">END</Keywords>
+            <Keywords name="Operators">&apos; ! &quot; $ % &amp; ( ) * , . / : ; ? @ [ \ ] ^ { | } ~ + &lt; = &gt;</Keywords>
+            <Keywords name="Comment">1 2 0#</Keywords>
+            <Keywords name="Words1">FONTSET GRID OUTPUTFORMAT SYMBOLSET</Keywords>
+            <Keywords name="Words2">ANGLE ANTIALIAS BACKGROUNDCOLOR BACKGROUNDSHADOWCOLOR BACKGROUNDSHADOWSIZE BUFFER CHARACTER CLASSITEM COLOR CONNECTION CONNECTIONTYPE CONFIG DATAPATTERN DATA DESCRIPTION DEBUG DRIVER EMPTY ERROR EXPRESSION EXTENT EXTENSION FILLED FONT FOOTER FORCE FROM FILTER FILTERITEM FORMATOPTION GROUP HEADER IMAGE IMAGECOLOR IMAGEPATH IMAGEURL INTERLACE INTERVALS IMAGETYPE IMAGEMODE INCLUDE KEYIMAGE KEYSIZE KEYSPACING LABELANGLEITEM LABELCACHE LABELITEM LABELMAXSCALE LABELMINSCALE LABELSIZEITEM LOG LABELREQUIRES LABELFORMAT MAXFEATURES MAXSCALE MAXSIZE MAXTEMPLATE MINDISTANCE MINFEATURESIZE MINSCALE MINSIZE MINTEMPLATE MINARCS MAXARCS MININTERVAL MAXINTERVAL MINSUBDIVIDE MAXSUBDIVIDE MIMETYPE MARKER MARKERSIZE MINBOXSIZE MAXBOXSIZE NAME OFFSET OUTLINECOLOR OFFSITE OVERLAYOUTLINECOLOR OVERLAYCOLOR OVERLAYSYMBOL OVERLAYSIZE OVERLAYMINSIZE OVERLAYMAXSIZE OVERLAYBACKGROUNDCOLOR PARTIALS POSITION POSTLABELCACHE PROCESSING QUERYITEM REQUIRES SCALE SHAPEPATH SIZE SPACING STATUS STYLED SYMBOL SYMBOLSCALE STYLEITEM SIZEUNITS SHADOWCOLOR SHADOWSIZE TABLE TEMPLATE TEXT TILEINDEX TILEITEM TO TOLERANCE TOLERANCEUNITS TRANSFORM TRANSPARENT TRANSPARENCY TYPE TEMPLATEPATTERN UNITS WRAP WIDTH</Keywords>
+            <Keywords name="Words3">annotation auto bitmap cc cl cr dd default ddmm ddmmss embed ellipse embed epsg false feet giant gif gtiff hilite inches jpeg kilometers large lc line ll local lr medium meters miles multiple normal off on ogr pixmap pixels point polygon polyline png queryonly raster sde selected single small swf tiny true truetype uc ul ur vector wbmp wms wms_srs wms_name wms_server_version wms_format wms_connectiontimeout wms_latlonboundingbox wms_formatlist wms_style wms_time wms_force_separate_request</Keywords>
+            <Keywords name="Words4"></Keywords>
+        </KeywordLists>
+        <Styles>
+            <WordsStyle name="DEFAULT" styleID="11" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" />
+            <WordsStyle name="FOLDEROPEN" styleID="12" fgColor="0000FF" bgColor="FFFFFF" fontName="" fontStyle="1" />
+            <WordsStyle name="FOLDERCLOSE" styleID="13" fgColor="0000FF" bgColor="FFFFFF" fontName="" fontStyle="1" />
+            <WordsStyle name="KEYWORD1" styleID="5" fgColor="0000FF" bgColor="FFFFFF" fontName="" fontStyle="1" />
+            <WordsStyle name="KEYWORD2" styleID="6" fgColor="FF8000" bgColor="FFFFFF" fontName="" fontStyle="1" />
+            <WordsStyle name="KEYWORD3" styleID="7" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="1" />
+            <WordsStyle name="KEYWORD4" styleID="8" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" />
+            <WordsStyle name="COMMENT" styleID="1" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" />
+            <WordsStyle name="COMMENT LINE" styleID="2" fgColor="808080" bgColor="FFFFFF" fontName="" fontStyle="0" />
+            <WordsStyle name="NUMBER" styleID="4" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" />
+            <WordsStyle name="OPERATOR" styleID="10" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" />
+            <WordsStyle name="DELIMINER1" styleID="14" fgColor="800040" bgColor="FFFFFF" fontName="" fontStyle="0" />
+            <WordsStyle name="DELIMINER2" styleID="15" fgColor="800000" bgColor="FFFFFF" fontName="" fontStyle="0" />
+            <WordsStyle name="DELIMINER3" styleID="16" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" />
+        </Styles>
+    </UserLang>
+</NotepadPlus>
