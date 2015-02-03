@@ -138,6 +138,7 @@
 		<KeyWord name="OVERLAYOUTLINECOLOR" />
 		<KeyWord name="OVERLAYSIZE" />
 		<KeyWord name="OVERLAYSYMBOL" />
+		<KeyWord name="PATTERN" />
 		<KeyWord name="PARTIALS" />
 		<KeyWord name="pixels" />
 		<KeyWord name="pixmap" />
