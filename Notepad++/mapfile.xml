@@ -17,6 +17,7 @@
 		<KeyWord name="CLASS" />
 		<KeyWord name="CLASSITEM" />
 		<KeyWord name="COLOR" />
+		<KeyWord name="COMPOSITE" />
 		<KeyWord name="CONFIG" />
 		<KeyWord name="CONNECTION" />
 		<KeyWord name="CONNECTIONTYPE" />
