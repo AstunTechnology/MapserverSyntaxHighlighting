@@ -7,7 +7,7 @@
         </Settings>
         <KeywordLists>
             <Keywords name="Delimiters">&quot;&apos;0&quot;&apos;0</Keywords>
-            <Keywords name="Folder+">CLASS FEATURE GRID JOIN LABEL LAYER LEGEND METADATA LINESET MAP MARKERSET PATTERN POINTS SHADESET STYLE PROJECTION QUERY OUTPUTFORMAT QUERYMAP REFERENCE SCALEBAR SYMBOL WEB </Keywords>
+            <Keywords name="Folder+">CLASS FEATURE GRID JOIN LABEL LAYER LEGEND METADATA LINESET MAP MARKERSET PATTERN POINTS SHADESET STYLE PROJECTION QUERY OUTPUTFORMAT QUERYMAP REFERENCE SCALEBAR SYMBOL VALIDATION WEB </Keywords>
             <Keywords name="Folder-">END</Keywords>
             <Keywords name="Operators">&apos; ! &quot; $ % &amp; ( ) * , . / : ; ? @ [ \ ] ^ { | } ~ + &lt; = &gt;</Keywords>
             <Keywords name="Comment">1 2 0#</Keywords>
